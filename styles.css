@@ -5,13 +5,14 @@
 /* Navbar background color */
 
 .navbar {
-  font-family: "MadreScript", serif;
+  font-family: 'MadreScript', serif;
   background-color: #E0C1B3; /* Replace with your desired color */
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Subtle shadow */
 }
 
 /* Navbar text color */
 .navbar a {
+  font-family: 'MadreScript', serif;
   color: #000000 !important; /* Black text */
   padding: 10px 15 px;
   font-weight: 650;

@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Svatba",
+    "title": "A+D",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2\n\n\nRezervace pokojů"
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
   },
   {
     "objectID": "about.html",
@@ -37,8 +37,29 @@
   {
     "objectID": "index.html#rezervace",
     "href": "index.html#rezervace",
-    "title": "Svatba",
+    "title": "A+D",
     "section": "",
     "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2\n\n\nRezervace pokojů"
+  },
+  {
+    "objectID": "index.html#section",
+    "href": "index.html#section",
+    "title": "A+D",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "ubyt.html",
+    "href": "ubyt.html",
+    "title": "Ubytování",
+    "section": "",
+    "text": "Rezervace pokojů"
+  },
+  {
+    "objectID": "ubyt.html#rezervace",
+    "href": "ubyt.html#rezervace",
+    "title": "Ubytování",
+    "section": "",
+    "text": "Rezervace pokojů"
   }
 ]

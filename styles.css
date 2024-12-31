@@ -1,0 +1,85 @@
+/* css styles */
+
+@import url(https://db.onlinewebfonts.com/c/078dccb5f3be0956233a6975ccbf4975?family=MadreScript); 
+
+/* Navbar background color */
+
+.navbar {
+  background-color: #E0C1B3; /* Replace with your desired color */
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+}
+
+/* Navbar text color */
+.navbar a {
+  color: #ffffff !important; /* White text */
+  padding: 10px 15 px;
+  font-weight: 500;
+}
+
+/* Navbar hover effect */
+.navbar a:hover {
+  color: #FFD700 !important; /* Gold text on hover */
+}
+
+
+h1 {
+  font-family: 'Madre Script', serif; /* Replace 'Georgia' with your desired font */
+  font-size: 2.5em;             /* Adjust the size as needed */
+  color: #E0C1B3;               /* Change color if needed */
+  font-weight: bold;            /* Adjust weight (normal, bold, etc.) */
+}
+
+h2 {
+  font-family: 'Madre Script', serif; /* Replace 'Georgia' with your desired font */
+  font-size: 2em;             /* Adjust the size as needed */
+  color: #000000;               /* Change color if needed */
+  font-weight: bold;            /* Adjust weight (normal, bold, etc.) */
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+a.button {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #D9B6A3;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+  font-weight: 500;
+  transition: 0.3s ease;
+}
+
+a.button:hover {
+  background-color: #cc987c;
+}
+
+
+footer {
+  background-color: #D9B6A3; /* Replace with your desired color */
+  color: #ffffff;            /* Text color */
+  text-align: center;
+  padding: 10px 0;
+  font-size: 14px;
+  position: relative;        /* Normal positioning */
+  width: 100%;               /* Full width */
+}
+
+.image-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); /* Flexible columns */
+  gap: 15px; /* Space between images */
+  padding: 10px;
+}
+
+.grid-image {
+  width: 100%; /* Responsive width */
+  border-radius: 10px; /* Rounded corners */
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Shadow effect */
+  transition: transform 0.3s ease; /* Smooth hover effect */
+}
+
+.grid-image:hover {
+  transform: scale(1.7); /* Zoom effect on hover */
+}

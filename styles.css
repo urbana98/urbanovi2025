@@ -12,9 +12,9 @@
 
 /* Navbar text color */
 .navbar a {
-  color: #ffffff !important; /* White text */
+  color: #000000 !important; /* Black text */
   padding: 10px 15 px;
-  font-weight: 500;
+  font-weight: 650;
 }
 
 /* Navbar hover effect */

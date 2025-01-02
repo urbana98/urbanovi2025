@@ -1,6 +1,18 @@
 /* css styles */
 
-@import url(https://db.onlinewebfonts.com/c/078dccb5f3be0956233a6975ccbf4975?family=MadreScript); 
+ @import url(https://db.onlinewebfonts.com/c/078dccb5f3be0956233a6975ccbf4975?family=MadreScript); 
+
+.wide-content {
+  max-width: 1200px !important;
+  margin: 0 auto !important;
+  padding: 20px !important;
+}
+
+body {
+  text-align: justify; /* Justify all body text */
+  line-height: 1.6;    /* Improve readability with line spacing */
+  hyphens: auto;       /* Add hyphenation for better justification */
+}
 
 /* Navbar background color */
 
@@ -11,8 +23,8 @@
 
 /* Navbar text color */
 .navbar a {
-  font-family: "MadreScript", serif;
-  color: #ffffff !important; /* White text */
+  font-family: 'MadreScript';
+  color: #000000 !important; /* White text */
   padding: 10px 15 px;
   font-weight: 500;
 }
@@ -83,22 +95,4 @@ footer {
 
 .grid-image:hover {
   transform: scale(1.7); /* Zoom effect on hover */
-}
-
-/* Background color of the announcement bar */
-.quarto-secondary {
-  background-color: #000000; /* Light pink, replace with desired color */
-  color: #000000; /* Text color */
-  font-weight: bold;
-}
-
-/* Optional: Change close button color */
-.quarto-secondary .close {
-  color: #000000;
-}
-
-/* Optional: Customize the link color inside the announcement */
-.quarto-secondary a {
-  color: #4A90E2; /* Link color */
-  text-decoration: underline;
 }

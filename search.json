@@ -1,31 +1,24 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "A+D",
+    "objectID": "ubyt.html",
+    "href": "ubyt.html",
+    "title": "Ubytování",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Pro vaše pohodlí nabízíme různé typy ubytování přímo na statku:\n\n\n\nDvoulůžkový pokoj Standard\n\nCena: 1 200 Kč/noc\nSoukromá koupelna, výhled do zahrady\n\nRodinný apartmán (4 osoby)\n\nCena: 2 500 Kč/noc\nKuchyňský kout, obývací prostor, vlastní terasa\n\nJednolůžkový pokoj\n\nCena: 800 Kč/noc\nIdeální pro jednotlivce, útulné vybavení\n\nSdílený pokoj (6 osob)\n\nCena: 500 Kč/osoba/noc\nSpolečná koupelna, skvělá volba pro skupiny přátel"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "O nás",
+    "objectID": "ubyt.html#typy-pokojů",
+    "href": "ubyt.html#typy-pokojů",
+    "title": "Ubytování",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Pro vaše pohodlí nabízíme různé typy ubytování přímo na statku:\n\n\n\nDvoulůžkový pokoj Standard\n\nCena: 1 200 Kč/noc\nSoukromá koupelna, výhled do zahrady\n\nRodinný apartmán (4 osoby)\n\nCena: 2 500 Kč/noc\nKuchyňský kout, obývací prostor, vlastní terasa\n\nJednolůžkový pokoj\n\nCena: 800 Kč/noc\nIdeální pro jednotlivce, útulné vybavení\n\nSdílený pokoj (6 osob)\n\nCena: 500 Kč/osoba/noc\nSpolečná koupelna, skvělá volba pro skupiny přátel"
   },
   {
-    "objectID": "place.html",
-    "href": "place.html",
-    "title": "Místo konání",
-    "section": "",
-    "text": "Kde se budeme brát?"
-  },
-  {
-    "objectID": "index.html#galerie",
-    "href": "index.html#galerie",
-    "title": "Svatba",
-    "section": "Galerie",
-    "text": "Galerie"
+    "objectID": "ubyt.html#rezervace",
+    "href": "ubyt.html#rezervace",
+    "title": "Ubytování",
+    "section": "Rezervace ",
+    "text": "Rezervace \nPokud si přejete rezervovat ubytování, vyplňte prosím rezervační formulář v sekci níže nebo nás kontaktujte přímo.\nPoznámka: Vzhledem k omezené kapacitě doporučujeme rezervovat pokoje co nejdříve.\n\nRezervovat pokoj"
   },
   {
     "objectID": "ubyt.html#galerie",
@@ -35,31 +28,31 @@
     "text": "Galerie"
   },
   {
-    "objectID": "index.html#rezervace",
-    "href": "index.html#rezervace",
+    "objectID": "index.html",
+    "href": "index.html",
     "title": "A+D",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2\n\n\nRezervace pokojů"
+    "text": "Vítejte na našich svatebních stránkách. Zde najdete veškeré informace týkající se našeho speciálního dne.\n\nVěříme, že nás všichni dobře znáte, ale pokud byste přecejen chtěli, tak si můžete o nás něco málo přečíst.\nAbyste bez problémů dorazili\nTaké budeme moc rádi, pokud s námi strávíte celý víkend, tj. od 15. - 18. srpna. Prostoru na spaní je více než dost a výletů v okolí ještě více (a samozřejmě uvítáme každou pomocnou ruku :-D). Pokud se rozhodnete využít možnost spaní, dejte nám vědět prostřednictvím registrační tabulky pokojů (viz Ubytování)."
   },
   {
-    "objectID": "index.html#section",
-    "href": "index.html#section",
-    "title": "A+D",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "O nás",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "O nás\nAhoj! Jsme Adam a Dominika vítáme vás na našich svatebních stránkách. Naše společná cesta začala před několika lety, kdy jsme se potkali na univerzitní přednášce. Od té doby jsme spolu prožili spoustu krásných chvil, nezapomenutelných dobrodružství a malých radostí každodenního života.\nDominikaje kreativní duše s vášní pro design a květiny, zatímco Adam miluje sport, hudbu a dobré jídlo. Dohromady tvoříme tým, který se vzájemně doplňuje a podporuje. Naše rozhodnutí spojit své životy oslavíme 16. srpna 2025 a nemůžeme se dočkat, až tento speciální den prožijeme společně s vámi.\nDoufáme, že si na našem webu najdete všechny potřebné informace o naší svatbě. Pokud byste měli jakékoli otázky, neváhejte se na nás obrátit. Těšíme se na vás!"
   },
   {
-    "objectID": "ubyt.html",
-    "href": "ubyt.html",
-    "title": "Ubytování",
+    "objectID": "place.html",
+    "href": "place.html",
+    "title": "Místo konání",
     "section": "",
-    "text": "Rezervace pokojů"
+    "text": "Naše svatba se bude konat na kouzelném místě – Statek Starý Týn. Tento malebný venkovský statek se nachází v srdci přírody a nabízí nádhernou atmosféru pro svatební den. Okolní zelené louky, romantické zákoutí a útulné prostory statku vytvoří nezapomenutelnou kulisu pro naši oslavu lásky.\nDatum: 16. srpna 2025\nAdresa: Statek Starý Týn, Týn nad Vltavou, Česká republika\n\n\n\n\n14:00 – Příjezd hostů a welcome drink\n15:00 – Svatební obřad v zahradě\n16:00 – Společné focení a občerstvení\n18:00 – Slavnostní večeře\n20:00 – První tanec a zahájení zábavy\n00:00 – Noční občerstvení a večerní program\n\n\n\n\nStatek nabízí dostatek prostoru pro přespání hostů přímo na místě. Pokud byste měli zájem o rezervaci pokoje, prosíme, kontaktujte nás co nejdříve prostřednictvím rezervačního formuláře v sekci Ubytování.\n\n\n\nPro hosty bude zajištěna kyvadlová doprava z centra Týna nad Vltavou přímo na statek a zpět. Pokud přijedete autem, je k dispozici dostatek parkovacích míst.\n\n\n\nPokud plánujete zůstat déle, můžete si užít krásné okolí – výlety podél Vltavy, návštěvu zámku Hluboká nebo procházky po okolních lesích."
   },
   {
-    "objectID": "ubyt.html#rezervace",
-    "href": "ubyt.html#rezervace",
-    "title": "Ubytování",
+    "objectID": "place.html#kde-se-budeme-brát",
+    "href": "place.html#kde-se-budeme-brát",
+    "title": "Místo konání",
     "section": "",
-    "text": "Rezervace pokojů"
+    "text": "Naše svatba se bude konat na kouzelném místě – Statek Starý Týn. Tento malebný venkovský statek se nachází v srdci přírody a nabízí nádhernou atmosféru pro svatební den. Okolní zelené louky, romantické zákoutí a útulné prostory statku vytvoří nezapomenutelnou kulisu pro naši oslavu lásky.\nDatum: 16. srpna 2025\nAdresa: Statek Starý Týn, Týn nad Vltavou, Česká republika\n\n\n\n\n14:00 – Příjezd hostů a welcome drink\n15:00 – Svatební obřad v zahradě\n16:00 – Společné focení a občerstvení\n18:00 – Slavnostní večeře\n20:00 – První tanec a zahájení zábavy\n00:00 – Noční občerstvení a večerní program\n\n\n\n\nStatek nabízí dostatek prostoru pro přespání hostů přímo na místě. Pokud byste měli zájem o rezervaci pokoje, prosíme, kontaktujte nás co nejdříve prostřednictvím rezervačního formuláře v sekci Ubytování.\n\n\n\nPro hosty bude zajištěna kyvadlová doprava z centra Týna nad Vltavou přímo na statek a zpět. Pokud přijedete autem, je k dispozici dostatek parkovacích míst.\n\n\n\nPokud plánujete zůstat déle, můžete si užít krásné okolí – výlety podél Vltavy, návštěvu zámku Hluboká nebo procházky po okolních lesích."
   }
 ]
